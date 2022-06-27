@@ -41,3 +41,8 @@
   font-size: 25px;
   cursor: pointer;
   }
+
+  .register-app .text{
+    color: white;
+    margin-bottom: 5px;
+  }

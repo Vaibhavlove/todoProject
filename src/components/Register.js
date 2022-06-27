@@ -57,6 +57,8 @@ function Register() {
 				/>
 				<br />
 				<input className='register-btn' type="submit" value="Register" />
+                <div className='text'>or</div>
+				<input className='register-btn' type="submit" value="Login" onClick={() =>{navigate('./login')}} />
 			</form>
 		</div>
     );
